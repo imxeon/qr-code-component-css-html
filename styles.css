@@ -1,0 +1,50 @@
+body {
+    background-color: #D5E1EF;
+    color: darkblue;
+    font-family: outfit;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#background-container {
+    background-color: white;
+    height: 497px;
+    width: 320px;
+    border-radius: 20px;
+}
+
+#qr-code {
+    display: block;
+    width: 288px;
+    height: 288px;
+    border-radius: 10px;
+    margin: 16px auto 0 auto;
+}
+
+#heading {
+    width: 280px;
+    margin: auto;
+}
+
+h3 {
+    text-align: center;
+    color: #1F314F;
+    font-weight: 700;
+    font-size: 24.5px;
+}
+
+#paragraph {
+    width: 280px;
+    margin: -12px auto 0 auto;
+}
+
+#paragraph p {
+    color: #7D889E;
+    font-size: 15px;
+    text-align: center;
+}
