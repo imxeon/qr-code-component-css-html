@@ -9,8 +9,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/imxeon/qr-code-component-css-html)
-- Live Site URL: [Add live site URL here](https://imxeon.github.io/qr-code-component-css-html/)
+- Solution URL: [https://github.com/imxeon/qr-code-component-css-html](https://github.com/imxeon/qr-code-component-css-html)
+- Live Site URL: [https://imxeon.github.io/qr-code-component-css-html/](https://imxeon.github.io/qr-code-component-css-html/)
 
 ### Built with
 
