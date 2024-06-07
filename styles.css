@@ -16,6 +16,7 @@ body {
     height: 497px;
     width: 320px;
     border-radius: 20px;
+    box-shadow: 0px 10px 45px rgba(0, 0, 0, 0.1)
 }
 
 #qr-code {
@@ -31,20 +32,19 @@ body {
     margin: auto;
 }
 
-h3 {
+h1 {
     text-align: center;
     color: #1F314F;
-    font-weight: 700;
-    font-size: 24.5px;
+    font-size: 1.4rem;
 }
 
 #paragraph {
     width: 280px;
-    margin: -12px auto 0 auto;
+    margin: -5px auto 0 auto;
 }
 
 #paragraph p {
     color: #7D889E;
-    font-size: 15px;
+    font-size: 16px;
     text-align: center;
 }
